@@ -38,7 +38,7 @@ These are some of the extensions we came up with. We are no way near our goal we
 
 
 # Github URL
-https://github.com/ab110/EasyTravel/
+https://github.com/farhanMRahman/EasyTravel/
 
 
 # Video Link
